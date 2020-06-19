@@ -11,5 +11,5 @@ The purpose of developing subqueries and joins with the code is to provide a qui
 the most in demand customer picks. This helps plan for appropriate inventory and company growth.
 Included are conditional queries, subqueries, joins, and a view. 
 
-![VideoStore](SQLdemo/VideoStore.jpg)
+![VideoStore](VideoStore.jpg)
 Reference: Photo by Sean Benesh on Unsplash
